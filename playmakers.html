@@ -1,0 +1,70 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>reveal.js</title>
+
+		<link rel="stylesheet" href="css/reset.css">
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/simple.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/monokai.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section data-markdown="markdown/intro.md"></section>
+				<section data-markdown="markdown/slide-list.md"></section>
+				<section id="product_footwear" data-markdown="markdown/product_footwear.md" data-separator-vertical="^\r?\n;;;\r?\n$"></section>
+				<section id="product_apparel" data-markdown="markdown/product_apparel.md" data-separator-vertical="^\r?\n;;;\r?\n$"></section>
+				<section id="product_accessories" data-markdown="markdown/product_accessories.md" data-separator-vertical="^\r?\n;;;\r?\n$"></section>
+				<section id="product_licensed-gear" data-markdown="markdown/product_licensed-gear.md" data-separator-vertical="^\r?\n;;;\r?\n$"></section>
+				<section id="content_reviews" data-markdown="markdown/content_reviews.md" data-separator-vertical="^\r?\n;;;\r?\n$"></section>
+				<section id="blog-index" data-markdown="markdown/content_blog-index.md" data-separator-vertical="^\r?\n;;;\r?\n$"></section>
+				<section id="blog-post" data-markdown="markdown/content_blog-post.md" data-separator-vertical="^\r?\n;;;\r?\n$"></section>
+				<section id="catalog_footwear" data-markdown="markdown/catalog_footwear.md" data-separator-vertical="^\r?\n;;;\r?\n$"></section>
+				<section id="catalog_general" data-markdown="markdown/catalog_general.md" data-separator-vertical="^\r?\n;;;\r?\n$"></section>
+				<section data-markdown="markdown/content_race-info.md" data-separator-vertical="^\r?\n;;;\r?\n$"></section>
+				<section data-markdown="markdown/content_good-form.md" data-separator-vertical="^\r?\n;;;\r?\n$"></section>
+				<section data-markdown="markdown/content_gateway.md" data-separator-vertical="^\r?\n;;;\r?\n$"></section>
+				<section data-markdown="markdown/content_training.md" data-separator-vertical="^\r?\n;;;\r?\n$"></section>
+				<section data-markdown="markdown/customer_accounts.md" data-separator-vertical="^\r?\n;;;\r?\n$"></section>
+				<section data-markdown="markdown/content_team.md" data-separator-vertical="^\r?\n;;;\r?\n$"></section>
+				<section data-markdown="markdown/content_events.md" data-separator-vertical="^\r?\n;;;\r?\n$"></section>
+			</div>
+		</div>
+
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+				multiplex: {
+					secret: '15637353235827056694',
+					id: '741dd1498b2a3d3a',
+					server: 'https://reveal-js-multiplex-ccjbegmaii.now.sh'
+				},
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true }
+				]
+			});
+		</script>
+	</body>
+</html>
