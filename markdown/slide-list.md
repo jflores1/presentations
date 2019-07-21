@@ -14,10 +14,11 @@
     <ul>
         <li><a href="#/catalog_footwear">Catalog - Footwear</a></li>
         <li><a href="#/catalog_general">Catalog - General</a></li>
-        <li>Content - Good Form</li>
-        <li>Content - Training</li>
-        <li>Gateway Pages</li>
+        <li><a href="#/race-info">Content - Race Information</a></li>
+        <li><a href="#/events">Content - Events</a></li>
+        <li><a href="#/good-form">Content - Good Form</a></li>
+        <li><a href="#/training">Content - Training</a></li>
+        <li><a href="#/gateway">Gateway Pages</a></li>
         <li>Customer - Accounts</li>
-        <li>Content - Events</li>
     </ul>
 </div>
