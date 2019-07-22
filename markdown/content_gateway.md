@@ -6,5 +6,6 @@ Could include:
 - Index: Good Form Running
 - Index: Events
 - Index: Training
+- Playmakers Fit Foundation
 
 *These are likely individual templates*
