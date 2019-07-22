@@ -19,7 +19,7 @@
         <li><a href="#/good-form">Content - Good Form</a></li>
         <li><a href="#/training">Content - Training</a></li>
         <li><a href="#/gateway">Gateway Pages</a></li>
-        <li>Team Pages</li>
+        <li><a href="#/team">Team Pages</a></li>
         <li>Customer - Accounts</li>
     </ul>
 </div>
