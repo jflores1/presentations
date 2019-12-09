@@ -19,7 +19,7 @@ body {
   background-color: #fff; }
 
 .reveal {
-  font-family: "Lato", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 28px;
   font-weight: normal;
   color: #000; }
@@ -64,14 +64,25 @@ body {
 .reveal h2 {
   font-size: 2.00em; }
 
+.title-slide {
+  font-size: 1.5em;}
+
 .reveal h3 {
   font-size: 1.55em; }
 
 .reveal h4 {
   font-size: 1em; }
 
+.reveal h5 {
+  font-size: 0.8em;
+}
+
 .reveal h1 {
   text-shadow: none; }
+
+.text__left {
+  text-align: left;
+}
 
 /*********************************************
  * OTHER
@@ -120,6 +131,9 @@ body {
   display: block;
   margin-left: 40px; }
 
+.reveal li {
+  line-height: 1.8;
+  }
 .reveal dt {
   font-weight: bold; }
 
@@ -214,7 +228,18 @@ body:after {
   transform: scale(.5);
   position: fixed;
   bottom: 3.5em;
-  left: 40%;
+  left: 35%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.column-50 {
+  float: left;
+  width: 50%;
 }
 
 /*********************************************
@@ -242,9 +267,9 @@ body:after {
 .reveal section img {
   margin: 15px 0px;
   background: rgba(255, 255, 255, 0.12);
-  border: 4px solid #000;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); }
-
+  /* border: 4px solid #000; */
+  /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); } */
+}
 .reveal section img.plain {
   border: 0;
   box-shadow: none; }
