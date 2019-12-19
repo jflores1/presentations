@@ -29,16 +29,8 @@ But one tool **stands out** above others as **the most important free tool** the
 
 ---
 
-<section>
-    <div class="row">
-        <div class="column-50">
-            <h3>Your Google Business Profile</h3>
-        </div>
-        <div class="column-50">
-            <img>
-        </div>
-    </div>
-</section>
+## Your Google Business Profile
+![SuperWebPros Google Business Profile](https://www.dropbox.com/s/0lgj51z8spd1ngi/Screenshot%202019-12-09%2016.01.33.png?dl=1)
 
 ---
 
@@ -55,7 +47,7 @@ So they _really_ care about the answer to these two questions...
 ;;;
 
 
-[img](searchbar)
+![Google Home Page](https://www.dropbox.com/s/5biwg0n4xgboi9m/Screenshot%202019-12-09%2016.03.22.png?dl=1)
 
 What is someone expecting to find when they click "search?" 
 
@@ -88,16 +80,8 @@ That's pretty broad. So, how does the searcher define success?
 
 ---
 
-<section>
-    <div class="row">
-        <div class="column-50">
-            <h3>With <em>typical</em> results, those criterion are not obvious</h3>
-        </div>
-        <div class="column-50">
-            <img>
-        </div>
-    </div>
-</section>
+### With "typical" results, those criterion aren't necessarily obvious
+![Standard search result](https://www.dropbox.com/s/9idhcknesb4mei6/Screenshot%202019-12-09%2016.07.16.png?dl=1)
 
 ---
 
@@ -106,16 +90,8 @@ That's pretty broad. So, how does the searcher define success?
 
 ---
 
-<section>
-    <div class="row">
-        <div class="column-50">
-            <h3>You've probably noticed these boxes starting to pop up across the web</h3>
-        </div>
-        <div class="column-50">
-            <img>
-        </div>
-    </div>
-</section>
+### You've probably noticed these boxes starting to pop up across the web
+<img style="height: 400px; margin-top: -10px;" src="https://www.dropbox.com/s/0nrgvdjqs18tnkr/Screenshot%202019-12-09%2016.12.11.png?dl=1"/>
 
 ---
 
@@ -136,7 +112,7 @@ These _snippets_ provide that information **at a glance** that **searchers care 
             </ul>
         </div>
         <div class="column-50">
-            <img>
+            <img style="height: 400px; margin-top: -10px;" src="https://www.dropbox.com/s/0nrgvdjqs18tnkr/Screenshot%202019-12-09%2016.12.11.png?dl=1"/>
         </div>
     </div>
 </section>
@@ -171,7 +147,7 @@ This creates a **win/win** for **you** and for **Google.**
 
 ---
 
-Because, once you fill it out, your information is indexed in a way that's _easy_ for Google's crawlers to index AND _easier for Google to **recommend your business** to searchers
+Because, once you fill it out, your information is indexed in a way that's _easy_ for Google's crawlers to index AND easier for Google to **recommend your business** to searchers
 
 ---
 
@@ -193,7 +169,7 @@ So, to do that, they have to give newly indexed profiles (and websites) an oppor
 
 That's what I'm going to show you right now.
 
-(Don't worry, it's easy to get started, even if you _hate_ technology) <!-- .element: class="fragment" -->
+(Don't worry, it's easy to get started, even if you hate technology)<!-- .element: class="fragment" -->
 
 Note: Splice in video doing the walk-through
 
@@ -232,7 +208,7 @@ So, if you **do nothing else for search**, complete your Google Business Profile
 
 ---
 
-## To _get ahead_ and _stay ahead_, you need to make sure you get reviews and local citations, and follow website best practices to _earn_ your spot on Google
+### To _get ahead_ and _stay ahead_, you need to make sure you get reviews and local citations, and follow website best practices to _earn_ your spot on Google
 
 ;;;
 
@@ -244,7 +220,8 @@ Especially if you're in a really competitive industry
 
 ---
 
-## Fortunately, Google provides you a personalized link you can share with customers to get reviews
+### Fortunately, Google provides you a personalized link you can share with customers to get reviews
+![link to google review link](https://www.dropbox.com/s/q28hiadcesau68a/Screenshot%202019-12-09%2016.39.06.png?dl=1)
 
 ---
 
