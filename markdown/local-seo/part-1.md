@@ -11,7 +11,7 @@ The cheapest, fastest way for a local business to get on Google’s radar is to 
 ### This training is for you if:
 - Most of your business comes from local clientele <!-- .element: class="fragment" -->
 - You’d like more foot traffic to your location <!-- .element: class="fragment" -->
-- You’d like more phone calls, emails, or live chats from customers through Google <!-- .element: class="fragment" -->
+- You’d like more phone calls, emails, or live chats from local customers through Google <!-- .element: class="fragment" -->
 - You’ve been frustrated by how often big companies such as Homeadvisor, Yelp, Angie’s List, or Thumbtack dominate local searches <!-- .element: class="fragment" -->
 
 note: Identify person & pain
@@ -25,7 +25,7 @@ note: Identify person & pain
 
 ---
 
-# In this 4-part training, you will learn:
+# In this 3-part training, you will learn:
 - <!-- .element: class="fragment" --> The <strong>most important search concept</strong> you need to grasp in order to <em>really compete</em> on Google
 - <!-- .element: class="fragment" --> The <strong>one thing</strong> you can do right now to get your local business on Google's radar <strong>(for free)</strong>
 - <!-- .element: class="fragment" --> The <strong>6-step process</strong> successful local businesses follow to get more local customers from Google
@@ -60,8 +60,8 @@ When you **update your mental model** about search...
 ---
 
 # What does it mean to rank?
-For many of us, when we thinking of ranking, we think of showing up here: <!-- .element: class="fragment" -->
-[img] <!-- .element: class="fragment" -->
+For many of us, when we thinking of ranking, we think of something that looks like this:
+![img](https://www.dropbox.com/s/hxgg0cqwzm4igmp/Screen%20Shot%202019-12-19%20at%202.33.16%20PM.png?dl=1) <!-- .element: class="fragment" -->
 
 ---
 
@@ -75,9 +75,11 @@ Maybe 5 or 10 years ago, this _was_ the coveted spot on Google.
 
 But, if we look at a search result _today_:
 
-[img] <!-- .element: class="fragment" -->
+![img](https://www.dropbox.com/s/d29dwik6bd77wv9/Export%20-%20Local%20Search%20Result%20Snippet.gif?dl=1) <!-- .element: class="fragment" -->
 
-We'll see there's often a whole **bunch of stuff above** that position. <!-- .element: class="fragment" -->
+---
+
+We'll see there's often a whole **bunch of stuff above** that position.
 
 ---
 
@@ -103,8 +105,6 @@ Note: That’s a really ambitious mission
 
 ;;;
 
-### Updating our ideas about Google...
-
 To do this, Google has to present the _highest-quality, most relevant results_ to a user's search query.
 
 Note: Google has to make money to accomplish their mission
@@ -117,7 +117,9 @@ And find a way to **monetize it**.
 
 Right now, Google has an **88% market share** in search.
 
-Making the company over **$100 Billion** per year. <!-- .element: class="fragment" -->
+;;;
+
+Making the company over <strong>$100 Billion</strong> per year.
 
 Note: Search is a winner-take-most market
 
@@ -132,7 +134,7 @@ Note: Search is a winner-take-most market
 They ensure their algorithm returns results that are <!-- .element: class="fragment" -->
 
 - <!-- .element: class="fragment" --> <strong>Trustworthy</strong>
-- <!-- .element: class="fragment" --> <strong>Authoritative</strong> and
+- <!-- .element: class="fragment" --> <strong>Authoritative</strong>
 - <!-- .element: class="fragment" --> <strong>Relevant</strong>
 
 ;;;
@@ -149,7 +151,7 @@ So, it’s not enough that the results are good, but rather the whole _search ex
 
 ;;;
 
-Which means it - as well as any website it’s going to recommend - provide a **good user experience**.
+Which means Google - as well as _any website it’s going to recommend_ - provide a **good user experience**.
 
 ;;;
 
@@ -157,7 +159,7 @@ If Google keeps doing these two things, then searchers will continue to _use Goo
 
 ;;;
 
-Maintaining it’s **88% market share** and **$300 Billion** juggernaut
+Maintaining it’s **88% market share** and **$100+ Billion** juggernaut
 
 ---
 
@@ -170,7 +172,7 @@ Showcasing **your business isn’t important** to Google, unless it meets the cr
 
 ---
 
-# Core Idea #1
+# The Main Idea:
 
 ---
 
@@ -178,13 +180,13 @@ Showcasing **your business isn’t important** to Google, unless it meets the cr
 
 ;;;
 
-## To succeed with Google, help Google succeed with _its_ users.
+### To succeed with Google, help Google succeed with _its_ users.
 
 ;;;
 
 ### How to help Google help you...
 
-- **Tactic 1:** If you want to show up in Google, you have to start with thinking about **Google's incentive structure**, _not_ your desire to rank.
+- <!-- .element: class="fragment" --> <strong>Tactic 1:</strong> If you want to show up in Google, you have to start with thinking about <em>Google's incentive structure</em>, not your desire to rank.
 - <!-- .element: class="fragment" --> <strong>Tactic 2:</strong> Make sure you demonstrate <strong>trustworthiness, authority, and relevance</strong> on your website & Google profile
 - <!-- .element: class="fragment" --> <strong>Tactic 3:</strong> Provide a <strong>great user-experience</strong> online - and offline
 

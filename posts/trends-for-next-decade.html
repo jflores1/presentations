@@ -6,9 +6,9 @@
 
 		<title>reveal.js</title>
 
-		<link rel="stylesheet" href="css/reset.css">
-		<link rel="stylesheet" href="css/reveal.css">
-		<link rel="stylesheet" href="css/theme/simple.css">
+		<link rel="stylesheet" href="../css/reset.css">
+		<link rel="stylesheet" href="../css/reveal.css">
+		<link rel="stylesheet" href="../css/theme/simple.css">
 
 		<!-- Theme used for syntax highlighting of code -->
 		<link rel="stylesheet" href="lib/css/monokai.css">
@@ -18,7 +18,7 @@
 			var link = document.createElement( 'link' );
 			link.rel = 'stylesheet';
 			link.type = 'text/css';
-			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? '../css/print/pdf.css' : '../css/print/paper.css';
 			document.getElementsByTagName( 'head' )[0].appendChild( link );
 		</script>
 	</head>
@@ -27,21 +27,19 @@
 			<div class="slides">
 				<section>
 					<div class="row intro-slide">
-						<div class="column-50" style="padding-top:18%;">
-							<h5 class="text__left">The Pros Know: Local SEO</h5>
-							<h3 class="title-slide text__left">The Most Important Tactic for Showing up on Local Search</h3>
-							<h5 class="text__left">(Part 1)</h5>
+						<div class="column-50">
+							<h2 class="title-slide text__left">The Pros Guide to the Third Decade. Trends We're Watching In 2020...And Beyond!</h2>
 						</div>
 						<div class="column-50">
 							<img src="https://www.superwebpros.com/wp-content/uploads/2019/05/jesse_transparent_with_metrics.png"/>
 						</div>
 					</div>
 				</section>
-				<section data-markdown="markdown/local-seo/part-2.md" data-separator-vertical="^\r?\n;;;\r?\n$"></section>
+				<section data-markdown="../markdown/trends-for-2020.md" data-separator-vertical="^\r?\n;;;\r?\n$"></section>
 			</div>
 		</div>
 
-		<script src="js/reveal.js"></script>
+		<script src="../js/reveal.js"></script>
 
 		<script>
 			// More info about config & dependencies:
@@ -56,10 +54,10 @@
 				progress: true,
 				hash: true,
 				dependencies: [
-					{ src: 'plugin/markdown/marked.js' },
-					{ src: 'plugin/markdown/markdown.js' },
-					{ src: 'plugin/notes/notes.js', async: true },
-					{ src: 'plugin/highlight/highlight.js', async: true }
+					{ src: '../plugin/markdown/marked.js' },
+					{ src: '../plugin/markdown/markdown.js' },
+					{ src: '../plugin/notes/notes.js', async: true },
+					{ src: '../plugin/highlight/highlight.js', async: true }
 				]
 			});
 		</script>

@@ -2,7 +2,7 @@
 
 ;;;
 
-## Google's mission is to organize all the world's information & make it accessible
+### Google's mission is to organize all the world's information & make it accessible
 
 ;;;
 
@@ -38,7 +38,7 @@ But one tool **stands out** above others as **the most important free tool** the
 
 ;;;
 
-## Remember: Google's mission is to organize all the world's information & make it accessible
+### Remember: Google's mission is to organize all the world's information & make it accessible
 
 ;;;
 
@@ -64,7 +64,7 @@ Note: people on the Internet aren’t patient.
 
 ---
 
-That's pretty broad. So, how does the searcher define success?
+That's pretty broad. So, how does the <strong>searcher</strong> define success?
 
 (Remember, Google defines success by the searcher's standards) <!-- .element: class="fragment" -->
 
@@ -159,17 +159,19 @@ Remember, Google wants to provide the most **trustworthy, authoritative, and rel
 
 ---
 
-So, to do that, they have to give newly indexed profiles (and websites) an opportunity to demonstrate they're worthy competitors
+So, to do that, they have to give newly indexed profiles an opportunity to demonstrate they're worthy competitors
+
+(This is often true for newly indexed websites, too...) <!-- .element: class="fragment" -->
 
 ---
 
-# So, how do you claim your profile and give your business this boost?
+## So, how do you claim your profile and give your business this boost?
 
 ---
 
 That's what I'm going to show you right now.
 
-(Don't worry, it's easy to get started, even if you hate technology)<!-- .element: class="fragment" -->
+(Don't worry, it's easy to get started, even if you hate technology) <!-- .element: class="fragment" -->
 
 Note: Splice in video doing the walk-through
 
