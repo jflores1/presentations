@@ -228,7 +228,7 @@ body:after {
   transform: scale(.5);
   position: fixed;
   bottom: 3.5em;
-  left: 35%;
+  left: 40%;
 }
 
 .row:after {
@@ -240,6 +240,28 @@ body:after {
 .column-50 {
   float: left;
   width: 50%;
+}
+
+.line-height_small {
+  line-height: 1.5 !important;
+}
+
+.text_small {
+  font-size: 0.9em !important;
+}
+
+img.width_80 {
+  display: block;
+  max-width: 80%;
+  margin: 0 auto;
+}
+
+.shadowed {
+  box-shadow: 1px 1px 3px 3px #999999;;
+}
+
+.align_right {
+  float: right;
 }
 
 /*********************************************
