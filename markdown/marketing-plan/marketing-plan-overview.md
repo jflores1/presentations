@@ -18,35 +18,48 @@ Consolidate & simplify some of the best resources I've found from around the web
 ---
 
 # The 8 Steps
-Each step has it's own page. They combine to form **one workbook** that can be easily created & shared.
-
-<!-- .element: class="column-50 text__left" -->
-1. One Page Customer Plan <!-- .element: class="fragment" -->
-2. One Page Marketing Plan <!-- .element: class="fragment" -->
-3. One Page Communication Plan <!-- .element: class="fragment" -->
-4. One Page Campaign Plan <!-- .element: class="fragment" -->
-5. One Page Content Plan <!-- .element: class="fragment" -->
-6. One Page Blog Plan <!-- .element: class="fragment" -->
-7. One Page SEO Plan <!-- .element: class="fragment" -->
-8. One Page Content Upgrade Plan <!-- .element: class="fragment" -->
+<div class="column-50">
+  <p class="text__left">
+    Each step has it's own page. They combine to form <strong>one workbook</strong> that can be easily created & shared.
+  </p>
+</div>
+<div class="column-50">
+  <ol>
+    <li class="fragment line-height_small text_small">Get clear on your ideal customer</li>
+    <li class="fragment line-height_small text_small">Expand your market(ing)</li>
+    <li class="fragment line-height_small text_small">Communicate clearly, persuasively, & succinctly</li>
+    <li class="fragment line-height_small text_small">Craft profitable campaigns</li>
+    <li class="fragment line-height_small text_small">Create the right content</li>
+    <li class="fragment line-height_small text_small">Blog</li>
+    <li class="fragment line-height_small text_small">Optimize for Search</li>
+    <li class="fragment line-height_small text_small">Attract, retain, & nurture leads</li>
+  </ol>
+</div>
 
 ---
 
-# How to Use This Plan
+# How to Use This Workbook
 
-- The pages are cumulative, but can be used in any order
-- The colored blocks cascade throughout the workbook
-- These can be used broadly (at the business/unit level) or specifically (for an individual product/campaign)
-- Individual pages can be printed & shared, as needed
-- You'll think of things I haven't.
+<div class="column-50">
+  <ul>
+    <li>Start at page 1, go in order</li>
+    <li>Colored blocks are designed to be re-used</li>
+    <li>Use page 1 and 3 before every initiative</li>
+    <li>Print & share pages as needed</li>
+  </ul>
+</div>
+<div class="column-50">
+  <img src="https://www.dropbox.com/s/1xc1suqxxq2o00e/One%20Page%20SEO%20Plan.png?dl=1" alt="" class="align_right shadowed width_80">
+</div>
+
 
 ---
 
 # The Overview
 
-;;;
+---
 
-## 1. One Page Customer Plan
+## 1. Get Clear on Your Ideal Customer
 The foundation of any viable business or marketing plan is customer clarity.
 
 ;;;
@@ -60,7 +73,7 @@ When thinking about your ideal customer, consider:
 
 ;;;
 
-## Your Ideal Customer
+## One Page Customer Plan
 Once you have that in mind, document:
 
 <div class="column-50">
@@ -83,7 +96,7 @@ Once you have that in mind, document:
 
 ---
 
-## 2. One Page Marketing Plan
+## 2. Expand Your Market(ing)
 
 Marketing and _promotion_ are often used interchangeably.
 
@@ -91,7 +104,7 @@ That's a mistake.
 
 ;;;
 
-## The Marketing Plan
+## Markeing != Promotion
 
 **Promotion** is about what and how your marketing messaging will be communicated. **Marketing** encompasses the whole value chain of your business, including:
 
@@ -103,7 +116,7 @@ That's a mistake.
 
 ;;;
 
-## A good marketing plan:
+## One Page Marketing Plan:
 
 <div class="column-50">
   <ul>
@@ -119,7 +132,7 @@ That's a mistake.
 
 ---
 
-## Storybrand Communication Plan
+## 3. Communicate Clearly (Storybrand)
 
 I tried to take it merely as one of many inputs, but the more I thought about it, the more impressed I was with it on its own. I'll share the core ideas, but it's worth checking out on its own.
 
@@ -140,7 +153,7 @@ Then, help them turn that attention towards your offer to help.
 
 ;;;
 
-### 3. The Storybrand Plan
+### The Storybrand Plan
 Has 9 parts:
 
 <div class="column-50">
@@ -163,7 +176,7 @@ Has 9 parts:
 
 ---
 
-## 4. One Page Campaign Plan
+## 4. Craft Profitable Campaigns
 Once you know **who** you're talking to, **why**, and **what you want to communicate**, you can start testing _channels_. That's what the One Page Campaign Plan is for.
 
 ;;;
@@ -203,7 +216,7 @@ There are 3 parts to running a successful campaign (in any channel):
 
 ---
 
-## 5. One Page Content Plan
+## 5. Create the Right Content
 If you want to be helpful to customers and rank in search engines, you have to be a content producer. Thankfully, once you've completed the first 3-4 parts of this workbook, the Content Plan becomes much easier.
 
 
@@ -216,7 +229,7 @@ Once you know **who** you want to attract, **what** their problems are, **how** 
 
 ;;;
 
-## Your Content Plan
+## One Page Content Plan
 
 With the Content Plan, consider:
 
@@ -244,14 +257,14 @@ With the Content Plan, consider:
 
 ---
 
-## 6. One Page Blog Plan
+## 6. Blog
 
 For most businesses, a blog is the primary type of content created and best SEO path forward. 
 
 
 ;;;
 
-## Blog Plan
+## The One Page Blog Plan
 
 <div class="column-50">
   <p class="text__left">Once pages 1-5 are created, the "Blog" plan is just about getting the ideas generated onto paper.</p>
@@ -263,7 +276,7 @@ For most businesses, a blog is the primary type of content created and best SEO 
 
 ---
 
-## 7. One Page SEO Plan
+## 7. Optimize for Search
 
 Nearly everyone asks us "how do I rank in Google?"  
 
@@ -272,7 +285,7 @@ The One Page SEO Plan helps you figure out how to get each post ranked.
 
 ;;;
 
-## The SEO Plan
+## The One Page SEO Plan
 <div class="column-50">
   <p class="text__left">There are 6 parts to it:</p>
   <ul>
@@ -293,7 +306,7 @@ The One Page SEO Plan helps you figure out how to get each post ranked.
 ;;;
 
 
-## 8. One Page Content Upgrade Plan
+## 8. Attract, Retain, and Nurture Leads
 
 Finally, content upgrades are an optional tactic to get prospects into your pipeline.
 
@@ -305,7 +318,7 @@ The idea is to provide great content with supplemental, supportive, or bonus con
 
 ;;;
 
-## Content Upgrades
+## One Page Content Upgrade Plan
 
 <div class="column-50">
   <p class="text__left">
@@ -321,7 +334,7 @@ The idea is to provide great content with supplemental, supportive, or bonus con
 
 # No Plan is Perfect
 
-No plan is perfect, but this approach creates a _system_ that allows for flexibility, scalability, and simplicity.
+No plan is perfect, but this approach creates a _system_ that allows for flexibility, scalability, and simplicity. It'll evolve as business & technology evolve.
 
 ---
 
