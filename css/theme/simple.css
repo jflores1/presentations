@@ -84,6 +84,10 @@ body {
   text-align: left;
 }
 
+.text__right {
+  text-align: right;
+}
+
 /*********************************************
  * OTHER
  *********************************************/
@@ -238,9 +242,17 @@ body:after {
 }
 
 .column-50 {
-  float: left;
   width: 50%;
 }
+
+.column--float-left {
+  float: left;
+}
+
+.column--float-right {
+  float: right;
+}
+
 
 .line-height_small {
   line-height: 1.5 !important;
@@ -262,6 +274,31 @@ img.width_80 {
 
 .align_right {
   float: right;
+}
+
+/*********************************************
+ * FLEXBOX
+ *********************************************/
+
+.container--flex {
+  display: flex;
+}
+
+.container--flex__column {
+  flex-direction: column;
+  padding: 1%;
+}
+
+.container--flex__flex-start {
+  justify-content: flex-start;
+}
+
+.container--flex__flex-center {
+  justify-content: center;
+}
+
+.container--flex__align-center {
+  align-items: center;
 }
 
 /*********************************************
